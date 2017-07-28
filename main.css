@@ -1,0 +1,18 @@
+#normal {
+	background-color: pink;
+}
+#cats {
+	background-color: #4c0080;
+}
+
+.death {
+	right:10px;
+	top:0px;
+	position:absolute;
+	color:#ff0000;
+	font-size:30px;
+}
+.white{
+
+	color:white;
+}
